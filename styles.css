@@ -1,23 +1,18 @@
-h3 {
-    color:green;
-}
-.Blue{
-    color:rgb(20, 107, 8);
-}
+
 .box{
     height: auto;
     width: 250px;
     padding: 10px;
     margin: 10px;
-    border: 10px solid black;
-    background-color: blanchedalmond; 
+    border: 10px solid #7B3E19;
+    background-color: #8B9556; 
 }
 .box2{
     height: auto;
     width: 200px;
     padding: 10px;
     margin: 10px;
-    border: 10px solid rgb(49, 145, 73);
+    border: 10px solid #2d611d;
     background-color: rgb(255, 255, 255); 
 }
 .box3{
@@ -26,6 +21,26 @@ h3 {
     width: auto;
     padding: 10px;
     margin: 10px;
-    border: 5px solid black;
-    background-color: rgba(157, 207, 255, 0.514); 
+    border: 3px solid #2d611d;
+    background-color: #98C1D9;
+}
+h3{
+    text-decoration: double underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    color:#2d611d;
+}
+.intro{
+    text-decoration: double underline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 32;
+    color:#2d611d;
+}
+.box4{
+    background-color: #e0eca4;
+}
+.box5{
+    background-color: #f2dba5 ;
 }
